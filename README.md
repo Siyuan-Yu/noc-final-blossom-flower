@@ -1,0 +1,2 @@
+# noc-final-blossom-flower
+The project is simulated the flower blooming phenomenon in real life. In physical world, flowers need light to grow, and in this project, users make the flower grow virtually through giving light to a physcial flowerpot. Below is the process of flower growing when having light, and flower recession (going back). In the video, I simulated the light process through mouse pressing. 
